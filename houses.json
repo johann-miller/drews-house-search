@@ -1,0 +1,47 @@
+[
+  {
+    "address": "123 Maple St, Springfield, IL 62701",
+    "thumbnail": "",
+    "url": "https://www.zillow.com/homedetails/123-maple-st",
+    "score": 8.5,
+    "price": 285,
+    "description": "Loved the open floor plan and the big backyard. Quiet street, close to the park.",
+    "metrics": [
+      { "index": 0, "label": "Beds", "value": "4", "rating": "++" },
+      { "index": 1, "label": "Baths", "value": "2.5", "rating": "++" },
+      { "index": 2, "label": "Location", "value": "8/10", "rating": "++" },
+      { "index": 3, "label": "Garage", "value": "Yes", "rating": "+++" },
+      { "index": 4, "label": "Basement", "value": "Yes", "rating": "+" }
+    ]
+  },
+  {
+    "address": "456 Oak Ave, Springfield, IL 62702",
+    "thumbnail": "",
+    "url": "https://www.zillow.com/homedetails/456-oak-ave",
+    "score": 7.0,
+    "price": 319,
+    "description": "Great kitchen and master suite. Busy road out front is a concern.",
+    "metrics": [
+      { "index": 0, "label": "Beds", "value": "3", "rating": "+" },
+      { "index": 1, "label": "Baths", "value": "2", "rating": "+" },
+      { "index": 2, "label": "Location", "value": "6/10", "rating": "+" },
+      { "index": 3, "label": "Garage", "value": "Yes", "rating": "++" },
+      { "index": 4, "label": "Basement", "value": "No", "rating": "-" }
+    ]
+  },
+  {
+    "address": "789 Pine Rd, Springfield, IL 62703",
+    "thumbnail": "",
+    "url": "https://www.zillow.com/homedetails/789-pine-rd",
+    "score": 6.0,
+    "price": 250,
+    "description": "Good price but needs work. Small yard. Garage is a single car.",
+    "metrics": [
+      { "index": 0, "label": "Beds", "value": "3", "rating": "+" },
+      { "index": 1, "label": "Baths", "value": "1", "rating": "--" },
+      { "index": 2, "label": "Location", "value": "7/10", "rating": "++" },
+      { "index": 3, "label": "Garage", "value": "Yes", "rating": "+" },
+      { "index": 4, "label": "Basement", "value": "Yes", "rating": "++" }
+    ]
+  }
+]
