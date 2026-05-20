@@ -1,32 +1,32 @@
 [
   {
-    "address": "123 Maple St, Springfield, IL 62701",
-    "thumbnail": "",
-    "url": "https://www.zillow.com/homedetails/123-maple-st",
-    "score": 8.5,
-    "price": 285,
-    "description": "Loved the open floor plan and the big backyard. Quiet street, close to the park.",
+    "address": "57 N Guilford Ave, Columbus, OH 43222",
+    "thumbnail": "https://photos.zillowstatic.com/fp/526983c4cb15286f1079aa23b04f05a2-cc_ft_768.webp",
+    "url": "https://www.zillow.com/homedetails/57-N-Guilford-Ave-Columbus-OH-43222/33855193_zpid/",
+    "score": 5,
+    "price": 165,
+    "description": "Looks to be in good condition, location is eh, but 4 beds is very nice, no garage :(",
     "metrics": [
-      { "index": 0, "label": "Beds", "value": "4", "rating": "++" },
-      { "index": 1, "label": "Baths", "value": "2.5", "rating": "++" },
-      { "index": 2, "label": "Location", "value": "8/10", "rating": "++" },
-      { "index": 3, "label": "Garage", "value": "Yes", "rating": "+++" },
-      { "index": 4, "label": "Basement", "value": "Yes", "rating": "+" }
+      { "index": 0, "label": "Beds", "value": "4", "rating": "+" },
+      { "index": 1, "label": "Baths", "value": "2", "rating": "+" },
+      { "index": 2, "label": "Location", "value": "5/10", "rating": "-" },
+      { "index": 3, "label": "Garage", "value": "No", "rating": "-" },
+      { "index": 4, "label": "Basement", "value": "No", "rating": "-" }
     ]
   },
   {
-    "address": "456 Oak Ave, Springfield, IL 62702",
-    "thumbnail": "",
-    "url": "https://www.zillow.com/homedetails/456-oak-ave",
-    "score": 7.0,
-    "price": 319,
-    "description": "Great kitchen and master suite. Busy road out front is a concern.",
+    "address": "627 N Columbus St, Lancaster, OH 43130",
+    "thumbnail": "https://photos.zillowstatic.com/fp/bbbb46167ccc60ec68abe8cff687b7c6-cc_ft_768.webp",
+    "url": "https://www.zillow.com/homedetails/627-N-Columbus-St-Lancaster-OH-43130/33814251_zpid/",
+    "score": 9,
+    "price": 170,
+    "description": "Seems to have almost everything we want, and has a beautiful interior. Far from work, but good position in Lancaster. Possible red flags/leaning frame?",
     "metrics": [
-      { "index": 0, "label": "Beds", "value": "3", "rating": "+" },
+      { "index": 0, "label": "Beds", "value": "4", "rating": "+" },
       { "index": 1, "label": "Baths", "value": "2", "rating": "+" },
-      { "index": 2, "label": "Location", "value": "6/10", "rating": "+" },
-      { "index": 3, "label": "Garage", "value": "Yes", "rating": "++" },
-      { "index": 4, "label": "Basement", "value": "No", "rating": "-" }
+      { "index": 2, "label": "Location", "value": "8/10", "rating": "+" },
+      { "index": 3, "label": "Garage", "value": "Yes", "rating": "+" },
+      { "index": 4, "label": "Basement", "value": "Yes", "rating": "+" }
     ]
   },
   {
@@ -38,10 +38,10 @@
     "description": "Good price but needs work. Small yard. Garage is a single car.",
     "metrics": [
       { "index": 0, "label": "Beds", "value": "3", "rating": "+" },
-      { "index": 1, "label": "Baths", "value": "1", "rating": "--" },
-      { "index": 2, "label": "Location", "value": "7/10", "rating": "++" },
+      { "index": 1, "label": "Baths", "value": "1", "rating": "-" },
+      { "index": 2, "label": "Location", "value": "7/10", "rating": "+" },
       { "index": 3, "label": "Garage", "value": "Yes", "rating": "+" },
-      { "index": 4, "label": "Basement", "value": "Yes", "rating": "++" }
+      { "index": 4, "label": "Basement", "value": "Yes", "rating": "+" }
     ]
   }
 ]
