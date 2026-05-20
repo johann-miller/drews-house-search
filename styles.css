@@ -90,6 +90,20 @@ header h1 {
   font-size: 0.8rem;
 }
 
+.open-icon {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.6rem;
+  color: #fff;
+  opacity: 0.6;
+  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.5));
+  transition: opacity 0.15s;
+}
+
+.card:hover .open-icon {
+  opacity: 1;
+}
+
 .score-badge {
   position: absolute;
   top: 0.6rem;
@@ -162,10 +176,11 @@ header h1 {
 .metric.r-pro {background: #a8e0a8; color: #000000; }
 .metric.r-con {background: #ffbfbf; color: #000000; }
 
-.score-badge.s-high { background: #2e7d32; }
-.score-badge.s-mid  { background: #f9a825; color: #333; }
-.score-badge.s-low  { background: #e64a19; }
-.score-badge.s-bad  { background: #b71c1c; }
+.score-badge.s-high    { background: #2e7d32; }
+.score-badge.s-mid     { background: #f9a825; color: #333; }
+.score-badge.s-low     { background: #e64a19; }
+.score-badge.s-bad     { background: #b71c1c; }
+.score-badge.s-unknown { background: #777; }
 
 /* Desktop: switch to horizontal card layout */
 @media (min-width: 640px) {

@@ -30,18 +30,97 @@
     ]
   },
   {
-    "address": "789 Pine Rd, Springfield, IL 62703",
-    "thumbnail": "",
+    "address": "104 S Pierce Ave, Lancaster, OH 43130",
+    "thumbnail": "https://photos.zillowstatic.com/fp/d15229fa06ac871e432a835d091bed3a-cc_ft_768.webp",
     "url": "https://www.zillow.com/homedetails/789-pine-rd",
-    "score": 6.0,
-    "price": 250,
-    "description": "Good price but needs work. Small yard. Garage is a single car.",
+    "score": 7,
+    "price": 155,
+    "description": "Good price, 2 baths, workable interior, basement, big ole' garage, possible roof issues",
     "metrics": [
-      { "index": 0, "label": "Beds", "value": "3", "rating": "+" },
-      { "index": 1, "label": "Baths", "value": "1", "rating": "-" },
+      { "index": 0, "label": "Beds", "value": "3", "rating": "-" },
+      { "index": 1, "label": "Baths", "value": "2", "rating": "+" },
       { "index": 2, "label": "Location", "value": "7/10", "rating": "+" },
       { "index": 3, "label": "Garage", "value": "Yes", "rating": "+" },
+      { "index": 4, "label": "Basement", "value": "Yes", "rating": "+" },
+      { "index": 4, "label": "Yard", "value": "6/10", "rating": "+" }
+    ]
+  },
+  {
+    "address": "224 Harrison Ave, Lancaster, OH 43130",
+    "thumbnail": "https://photos.zillowstatic.com/fp/cb27ba505386f131f93263c41314600d-cc_ft_384.webp",
+    "url": "https://www.zillow.com/homedetails/224-Harrison-Ave-Lancaster-OH-43130/33811752_zpid/",
+    "score": 5,
+    "price": 90,
+    "description": "Very affordable, but would need some work, only 1 bath",
+    "metrics": [
+      { "index": 0, "label": "Beds", "value": "3", "rating": "-" },
+      { "index": 1, "label": "Baths", "value": "1", "rating": "-" },
+      { "index": 2, "label": "Location", "value": "7/10", "rating": "+" },
+      { "index": 3, "label": "Garage", "value": "No", "rating": "-" },
+      { "index": 4, "label": "Basement", "value": "No", "rating": "-" }
+    ]
+  },
+  {
+    "address": "1565 Vilardo Ln, Columbus, OH 43227",
+    "thumbnail": "https://ap.rdcpix.com/5fe61b687117d4f21cae3eda102530cbl-m3553833922rd-w1280_h960.webp",
+    "url": "https://www.realtor.com/realestateandhomes-detail/1565-Vilardo-Ln_Columbus_OH_43227_M43197-47650?from=srp_next",
+    "score": 8,
+    "price": 170,
+    "description": "Great balanced location for work and for the family, 4 bed, realistic price, connected garage, nice yard, needs work",
+    "metrics": [
+      { "index": 0, "label": "Beds", "value": "4", "rating": "+" },
+      { "index": 1, "label": "Baths", "value": "1.5", "rating": "+" },
+      { "index": 2, "label": "Location", "value": "9/10", "rating": "+" },
+      { "index": 3, "label": "Garage", "value": "Yes", "rating": "+" },
+      { "index": 4, "label": "Basement", "value": "No", "rating": "-" },
+      { "index": 4, "label": "Yard", "value": "9/10", "rating": "+" }
+    ]
+  },
+  {
+    "address": "53 Chicago Ave, Columbus, OH 43222",
+    "thumbnail": "https://ap.rdcpix.com/8374a6525a4821a9aa8893293afe9f7al-m974993197rd-w1280_h960.webp",
+    "url": "https://www.realtor.com/realestateandhomes-detail/53-Chicago-Ave_Columbus_OH_43222_M43307-52476?from=srp_next",
+    "score": "?",
+    "price": 115,
+    "description": "Mystery house, probably haunted, 4 bed, 3 bath, big, needs windows/flooring/walls/lots of other stuff, location might be sketchy",
+    "metrics": [
+      { "index": 0, "label": "Beds", "value": "4", "rating": "+" },
+      { "index": 1, "label": "Baths", "value": "3", "rating": "+" },
+      { "index": 2, "label": "Location", "value": "3/10", "rating": "-" },
+      { "index": 3, "label": "Garage", "value": "No", "rating": "-" },
+      { "index": 4, "label": "Basement", "value": "Yes, but no way am I going down there without a banishing ritual", "rating": "-" },
+      { "index": 4, "label": "Yard", "value": "6/10", "rating": "+" }
+    ]
+  },
+  {
+    "address": "427 S Richardson Ave, Columbus, OH 43204",
+    "thumbnail": "https://ap.rdcpix.com/f31d2b3d5287262be61ab45f1bc4959bl-m553358197rd-w1280_h960.webp",
+    "url": "https://www.realtor.com/realestateandhomes-detail/427-S-Richardson-Ave_Columbus_OH_43204_M41114-05138?from=srp_next",
+    "score": 6,
+    "price": 168,
+    "description": "Looks very nice, 4 bed, only 1 bath, seems to be in good condition, spactious basement, no garage, has been listed for quite some time?",
+    "metrics": [
+      { "index": 0, "label": "Beds", "value": "4", "rating": "+" },
+      { "index": 1, "label": "Baths", "value": "1", "rating": "-" },
+      { "index": 2, "label": "Location", "value": "5/10", "rating": "-" },
+      { "index": 3, "label": "Garage", "value": "No", "rating": "-" },
       { "index": 4, "label": "Basement", "value": "Yes", "rating": "+" }
+    ]
+  },
+  {
+    "address": "771 S Hampton Rd, Columbus, OH 43227",
+    "thumbnail": "https://ap.rdcpix.com/f27b514014c6888f892342718071f01el-m2609053200rd-w1280_h960.webp",
+    "url": "https://www.realtor.com/realestateandhomes-detail/771-S-Hampton-Rd_Columbus_OH_43227_M34612-52132?from=srp_next",
+    "score": "6",
+    "price": 115,
+    "description": "Can't get much closer to work than this spot, 4 bed, only 1 bath, gravel parking without garage, interior looks very nice once it's cleaned up, price seems very good",
+    "metrics": [
+      { "index": 0, "label": "Beds", "value": "4", "rating": "+" },
+      { "index": 1, "label": "Baths", "value": "1", "rating": "-" },
+      { "index": 2, "label": "Location", "value": "7/10", "rating": "+" },
+      { "index": 3, "label": "Garage", "value": "No", "rating": "-" },
+      { "index": 4, "label": "Basement", "value": "Yes", "rating": "+" },
+      { "index": 4, "label": "Yard", "value": "5/10", "rating": "+" }
     ]
   }
 ]
