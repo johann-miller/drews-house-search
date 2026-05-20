@@ -26,13 +26,14 @@
       { "index": 1, "label": "Baths", "value": "2", "rating": "+" },
       { "index": 2, "label": "Location", "value": "8/10", "rating": "+" },
       { "index": 3, "label": "Garage", "value": "Yes", "rating": "+" },
-      { "index": 4, "label": "Basement", "value": "Yes", "rating": "+" }
+      { "index": 4, "label": "Basement", "value": "Yes", "rating": "+" },
+      { "index": 4, "label": "Yard", "value": "7/10", "rating": "+" }
     ]
   },
   {
     "address": "104 S Pierce Ave, Lancaster, OH 43130",
     "thumbnail": "img/104spierce.webp",
-    "url": "https://www.zillow.com/homedetails/789-pine-rd",
+    "url": "https://www.zillow.com/homedetails/104-S-Pierce-Ave-Lancaster-OH-43130/33820939_zpid/",
     "score": 7,
     "price": 155,
     "description": "Good price, 2 baths, workable interior, basement, big ole' garage, possible roof issues",
@@ -111,7 +112,7 @@
     "address": "771 S Hampton Rd, Columbus, OH 43227",
     "thumbnail": "img/771shampton.webp",
     "url": "https://www.realtor.com/realestateandhomes-detail/771-S-Hampton-Rd_Columbus_OH_43227_M34612-52132?from=srp_next",
-    "score": "6",
+    "score": "8",
     "price": 115,
     "description": "Can't get much closer to work than this spot, 4 bed, only 1 bath, gravel parking without garage, interior looks very nice once it's cleaned up, price seems very good",
     "metrics": [
